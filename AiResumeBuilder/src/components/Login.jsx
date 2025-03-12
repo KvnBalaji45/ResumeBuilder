@@ -6,12 +6,12 @@ export default function Login() {
   const navigate = useNavigate();
 
   const users = [
-    { username: 'john', password: 'john123' },
+    { username: 'gopi', password: 'gopi123' },
     { username: 'randy', password: 'orton123' },
     { username: 'sachin', password: 'sachin123' },
     { username: 'rohit', password: 'rohit123' },
     { username: 'virat', password: 'virat123' },
-    { username: 'trisha', password: 'trisha123' },
+    { username: 'balaji', password: 'balaji123' },
     { username: 'katrina', password: 'katrina123' },
     { username: 'priya', password: 'priya123' },
     { username: 'rahul', password: 'rahul123' },
